@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore audio backup folder
+Audio BKP/
+
+# Ignore temporary or log files
+*.log
+*.tmp
+
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
