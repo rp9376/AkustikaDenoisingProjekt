@@ -119,14 +119,6 @@ pip install librosa noisereduce soundfile matplotlib numpy ffmpeg-python
 ```
 
 ---
-
-## FAQ
-
-### Q: Is it appropriate to use the Erika song (the German lullaby version) as a sample audio file in this project?
-
-**A (by GitHub Copilot):**  
-No, it is not inappropriate to use the Erika lullaby version (the German song) as a sample audio file for technical or educational purposes, such as demonstrating audio denoising. However, be mindful of copyright status and avoid distributing copyrighted material without permission. If the file is in the public domain or you have the rights to use it, it is acceptable for your project.
-
 ---
 
 ## FYI (In Case You're Wondering!)
